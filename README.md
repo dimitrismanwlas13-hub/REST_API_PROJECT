@@ -20,7 +20,7 @@ A **backend API** for managing customer data, built with **Bun / Node.js**, **My
 - **Search customers**
 - **Update a customer**
 - **Delete a customer and related addresses & phone numbers**
-- 
+  
 ---
 
 ## Requirements
